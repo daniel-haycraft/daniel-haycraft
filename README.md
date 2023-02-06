@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-haycraft
 - 👀 My hobbies are snowboard, gaming, and figuring out how to debug my own code🤣
-- 🌱 I’m currently learning everything and anything i can get my hands on.
-- 💞️ I’m looking to collaborate on a video game, please message me to see if we would make a great team!
+- 🌱 I’m currently learning python and have a intermediate grasp on vanilla js.
+- 💞️ I’m looking to collaborate on a project that either involves python or js, feel free to message me!
 - 📫 How to reach me dhcopy1@gmail.com
 
 <!---
